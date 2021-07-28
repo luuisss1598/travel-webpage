@@ -4,6 +4,7 @@ let height = 5;
 let squares = []
 
 let countDays = 1
+// random
 
 function createGrid() {
     for(let i = 0; i < (width*width); i++) {
